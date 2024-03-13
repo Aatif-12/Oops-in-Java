@@ -5,6 +5,7 @@ public class Executable extends Object {
         System.out.println("Static Block from Executable class");
     }
 
+    // Inheritance
     public static void main(String[] args) {
         Cat c = new Cat();
         Dog d = new Dog();
